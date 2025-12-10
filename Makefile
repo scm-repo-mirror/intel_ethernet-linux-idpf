@@ -2,7 +2,7 @@
 # Copyright (C) 2021 Intel Corporation
 
 TARGETS := idpf auxiliary
-VERSION := 0.0.659
+VERSION := 1.0.1
 
 # Shortcut version target
 ifneq ($(filter version,${MAKECMDGOALS}),)
