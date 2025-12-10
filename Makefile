@@ -159,4 +159,3 @@ clean:
 
 endif # ifneq (${KERNELRELEASE},)
 endif # version target handling
-
